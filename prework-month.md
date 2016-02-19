@@ -20,8 +20,8 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       <td>10 minutes a day</td>
     </tr>
     <tr>
-      <td><strong>Task B- Algorithmic Thinking & Logic:</strong><br>Sign up for a free account & do all of the free <a href="https://brilliant.org/computer-science/computer-science/types-and-data-structures/">Computer Science Warmups Concepts & Challenges at Brilliant.org</a>. Spread these exercises out over the next week as you see fit.</td>
-      <td>Take a screenshot when you complete each quiz (Labyrinth Liberation, Dinner Date, Algorithm Accomplished) and post it as a comment in your Gist (see Day One task).</td>
+      <td><strong>Task B- Algorithmic Thinking & Logic:</strong><br>Sign up for a free account & do only the free <a href="https://brilliant.org/computer-science/computer-science/types-and-data-structures/">Computer Science Warmups Concepts & Challenges at Brilliant.org</a>. Spread these exercises out over the next week as you see fit.</td>
+      <td>Take a screenshot when you complete each of the <b>free</b> quizzes (Labyrinth Liberation, Dinner Date, Algorithm Accomplished) and post it as a comment in your Gist (see Day One task).</td>
       <td>About 5 minutes a day</td>
     </tr>
   </tbody>

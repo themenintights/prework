@@ -39,7 +39,17 @@
     <tr>
       <td><strong>Task D- Set up your environment (Atom, Ruby, etc.)</strong><br><br>
       <strong>If you are a Mac user:</strong> Watch <a href="https://vimeo.com/154607937">this screencast</a> or read <a href="https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/environment_setup.markdown">this post</a> to guide you. The screencast and the post cover the same information.<br><br>
-      <strong>If you are a Windows user:</strong> Rachel add info here! Cloud9??</td>
+            <strong>If you are a Windows user:</strong> Ruby is trickier to set up on Windows machines. In addition, the commands you'll be using on a Mac while at Turing will be different. In order to get started on a Windows machine, you'll complete the prework using the [Cloud9](https://c9.io/) online IDE by following the instructions below: 
+
+<li>Click "Try it Now"</li>
+<li>Fill in username, email, and password</li>
+<li>Click "Create your free account"</li>
+<li>Click "Go to your dashboard"</li>
+<li>Click "Create a new workspace"</li>
+<li>In "Workspace name", type "turing-prework"</li>
+<li>Don't fill in or select anything else; just click "Create workspace" at the bottom</li>
+<li>Wait for your workspace to load </li>
+<li>The navy blue box at the bottom is your command line (referred to as "Terminal" in some reference materials). The sidebar on the left-hand side is your file tree. The area in the middle is your text editor. </li>
       <td>Respond to the following questions in your Gist:<br>
       <ul>
         <li>Did you run into any issues?</li>

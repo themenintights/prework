@@ -37,7 +37,7 @@
       <td>10 minutes</td>
     </tr>
     <tr>
-      <td><strong>Task D- Set up your environment (Atom, Ruby, etc.)</strong><br><br>
+      <td><strong>Task D- Set up your environment (Visual Studio Code, Ruby, etc.)</strong><br><br>
       <strong>If you are a Mac user:</strong> Watch <a href="https://vimeo.com/154607937">this screencast</a> or read <a href="https://github.com/turingschool/lesson_plans/blob/master/ruby_01-object_oriented_programming_with_ruby/environment_setup.markdown">this post</a> to guide you. The screencast and the post cover the same information.<br><br>
             <strong>If you are a Windows user:</strong> Ruby is trickier to set up on Windows machines. In addition, the commands you'll be using on a Mac while at Turing will be different. In order to get started on a Windows machine, you'll complete the prework using the [Cloud9](https://c9.io/) online IDE by following the instructions below: 
 
@@ -53,10 +53,8 @@
       <td>Respond to the following questions in your Gist:<br>
       <ul>
         <li>Did you run into any issues?</li>
-        <li>How do you open Atom from your Terminal?</li>
+        <li>How do you open Visual Studio Code from your Terminal?</li>
         <li>What is the file extension for a Ruby file?</li>
-        <li>What is the Atom shortcut for hiding/ showing your file tree view?</li>
-        <li>What is the Atom shortcut for quickly finding a file (fuzzy finder)?</li>
       </ul><br><br>Type the following commands into your Terminal to ensure you have Ruby, RVM, and Git installed. Take a screenshot that shows the versions of each of these, and post it as a comment in your Gist:<br>
         <ul>
           <li>which ruby</li>
@@ -114,7 +112,7 @@
     <tr>
       <td><strong>Task F- Choose your Ruby adventure!</strong><br>
         <ul>
-          <li><strong>Option 1:</strong> If you are ready to jump into using your own text editor (Atom) and the terminal to learn Ruby (I think any of you can tackle this, but see option 2 if you need to ease in more), go here: http://curriculum.railsbridge.org/ruby/ and go to the directions for Option 1 below.</li>
+          <li><strong>Option 1:</strong> If you are ready to jump into using your own text editor (Visual Studio Code) and the terminal to learn Ruby (I think any of you can tackle this, but see option 2 if you need to ease in more), go here: http://curriculum.railsbridge.org/ruby/ and go to the directions for Option 1 below.</li>
           <li><strong>Option 2:</strong> If you are feeling totally overwhelmed by Terminal, command line, etc., and just want to start with some basic Ruby practice before trying Option 1, go here: http://tryruby.org and go to the directions for Option 2 below.</td>
         <ul>
       <td>See directions for the option you choose.</td>

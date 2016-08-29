@@ -65,12 +65,9 @@
       <td>About 45 minutes</td>
     </tr>
     <tr>
-      <td><strong>Task E- Start learning to use the command line.</strong><br>Watch <a href="https://vimeo.com/152746852">this video</a>.<br><br>Read AND do these exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:
+      <td><strong>Task E- Start learning to use the command line.</strong><br>Watch <a href="https://vimeo.com/152746852">this video</a>.<br><br>Read AND start these exercises  https://www.codecademy.com/learn/learn-the-command-line <br>For today:
         <ul>
-          <li>Introduction: Shut Up And Shell</li>
-          <li>The Setup</li>
-          <li>Paths, Folders, Directories (pwd)</li>
-          <li>What's Your Computer's Name? (hostname)</li>
+          <li>Unit 1: Navigating the File System</li>
         </ul>
       </td>
       <td>Did you make the flashcards in Setup? Post a picture of your flashcards as a comment in your Gist.<br><br>Answer the following questions in your Gist:
@@ -99,11 +96,10 @@
       <th>Time Frame</th>
     </tr>
     <tr>
-      <td><strong>Task E-</strong> Read AND do these command line exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:<br>
+      <td><strong>Task E-</strong> Read AND start these exercises 
+      https://www.codecademy.com/learn/learn-the-command-line <br>For today:<br>
         <ul>
-          <li>Make A Directory (mkdir)</li>
-          <li>Change Directory (cd)</li>
-          <li>List Directory (ls)</li>
+          <li>Unit 2: Viewing and Changing the File System</li>
         </ul>
       </td>
       <td>Take a screenshot of your terminal after completing each exercise, and post all three as comments to your Gist.</td>
@@ -146,10 +142,11 @@
       <th>Time Frame</th>
     </tr>
     <tr>
-      <td><strong>Task E-</strong> Read AND do these command line exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:<br>
+      <td><strong>Task E-</strong> Read AND do these
+      https://www.codecademy.com/learn/learn-the-command-line
+      <br>For today:<br>
         <ul>
-          <li>Remove Directory (rmdir)</li>
-          <li>Moving Around (pushd, popd)</li>
+          <li>Redirecting Input and Output</li>
         <ul>
       </td>
       <td>Take a screenshot of your terminal after completing each exercise, and post them as comments in your Gist.</td>
@@ -178,11 +175,11 @@
       <th>Time Frame</th>
     </tr>
     <tr>
-      <td><strong>Task E</strong>- Read AND do these command line exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:<br>
+      <td><strong>Task E</strong>- Read AND do these exercises 
+      https://www.codecademy.com/learn/learn-the-command-line
+      <br>For today:<br>
         <ul>
-          <li>Making Empty Files (Touch, New-Item)</li>
-          <li>Copy A File (cp)</li>
-          <li>Moving A File (mv)</li>
+          <li>Configuring the Environment</l1>
         <ul>
       </td>
       <td>Take a screenshot of your terminal after completing each exercise, and post them as comments in your Gist.</td>
@@ -209,17 +206,6 @@
       <th>Task</th>
       <th>Accountability Check</th>
       <th>Time Frame</th>
-    </tr>
-    <tr>
-      <td><strong>Task E</strong>- Read AND do these command line exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:<br>
-        <ul>
-          <li>View A File (less, MORE)</li>
-          <li>Stream A File (cat)</li>
-          <li>Removing A File (rm)</li>
-        <ul>
-      </td>
-      <td>Take a screenshot of your terminal after completing each exercise, and post them as comments in your Gist.</td>
-      <td>20 minutes</td>
     </tr>
     <tr>
       <td><strong>Task F</strong>- Continue learning Ruby. You should be working on Option 1 at this point.</td>

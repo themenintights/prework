@@ -74,13 +74,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       <td>About 45 minutes</td>
     </tr>
     <tr>
-      <td><strong>Task E- Start learning to use the command line.</strong><br>Watch <a href="https://vimeo.com/152746852">this video</a>.<br><br>Read AND do these exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:
-        <ul>
-          <li>Introduction: Shut Up And Shell</li>
-          <li>The Setup</li>
-          <li>Paths, Folders, Directories (pwd)</li>
-          <li>What's Your Computer's Name? (hostname)</li>
-        </ul>
+      <td><strong>Task E- Start learning to use the command line.</strong><br>Watch <a href="https://vimeo.com/152746852">this video</a>.<br><br> Do the first section of: http://codecademy.com/learn/learn-the-command-line <br>For today:
       </td>
       <td>Did you make the flashcards in Setup? Post a picture of your flashcards as a comment in your Gist.<br><br>Answer the following questions in your Gist:
       <ul>
@@ -155,14 +149,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       <th>Time Frame</th>
     </tr>
     <tr>
-      <td><strong>Task E-</strong> Read AND do these command line exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:<br>
-        <ul>
-          <li>Remove Directory (rmdir)</li>
-          <li>Moving Around (pushd, popd)</li>
-        <ul>
-      </td>
-      <td>Take a screenshot of your terminal after completing each exercise, and post them as comments in your Gist.</td>
-      <td>20 minutes</td>
+      <td><strong>Task E-</strong> Continue Work On: http://codecademy.com/learn/learn-the-command-line
     </tr>
     <tr>
       <td><strong>Task F</strong>- Continue learning Ruby with the option you chose above.</td>
@@ -187,15 +174,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       <th>Time Frame</th>
     </tr>
     <tr>
-      <td><strong>Task E</strong>- Read AND do these command line exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:<br>
-        <ul>
-          <li>Making Empty Files (Touch, New-Item)</li>
-          <li>Copy A File (cp)</li>
-          <li>Moving A File (mv)</li>
-        <ul>
-      </td>
-      <td>Take a screenshot of your terminal after completing each exercise, and post them as comments in your Gist.</td>
-      <td>20 minutes</td>
+      <td><strong>Task E</strong>- Continue work on: http://codecademy.com/learn/learn-the-command-line<br>For today:<br>
     </tr>
     <tr>
       <td><strong>Task F</strong>- Continue learning Ruby with the option you chose above. If you started with Try Ruby, switch to Option 1 today, and make sure you read over the directions from Day Two!</td>
@@ -220,15 +199,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       <th>Time Frame</th>
     </tr>
     <tr>
-      <td><strong>Task E</strong>- Read AND do these command line exercises in your terminal: http://cli.learncodethehardway.org/book <br>For today:<br>
-        <ul>
-          <li>View A File (less, MORE)</li>
-          <li>Stream A File (cat)</li>
-          <li>Removing A File (rm)</li>
-        <ul>
-      </td>
-      <td>Take a screenshot of your terminal after completing each exercise, and post them as comments in your Gist.</td>
-      <td>20 minutes</td>
+      <td><strong>Task E</strong>- Continue work on: http://codecademy.com/learn/learn-the-command-line<br>For today:<br>
     </tr>
     <tr>
       <td><strong>Task F</strong>- Continue learning Ruby. You should be working on Option 1 at this point.</td>

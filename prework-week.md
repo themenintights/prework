@@ -15,10 +15,21 @@
       <td>10 minutes a day</td>
     </tr>
     <tr>
-      <td><strong>Task B- Algorithmic Thinking & Logic:</strong><br>Sign up for a free account & do all of the free <a href="https://brilliant.org/computer-science/computer-science/types-and-data-structures/">Computer Science Warmups Concepts & Challenges at Brilliant.org</a>. Spread these exercises out over the next week as you see fit.</td>
-      <td>Take a screenshot when you complete each quiz (Labyrinth Liberation, Dinner Date, Algorithm Accomplished) and post it as a comment in your Gist (see Day One task).</td>
+      <td><strong>Task B- Algorithmic Thinking & Logic:</strong><br>Sign up for a free account & do only the free <a href="https://brilliant.org/computer-science/computer-science/types-and-data-structures/">Computer Science Warmups Concepts & Challenges at Brilliant.org</a>. Spread these exercises out over the next week as you see fit.</td>
+      <td>Take a screenshot when you complete each of the <b>free</b> quizzes (Labyrinth Liberation, Dinner Date, Algorithm Accomplished) and post it as a comment in your Gist (see Day One task).</td>
       <td>About 5 minutes a day</td>
     </tr>
+    <tr>
+      <td><strong>Task C: Turing Culture: Developing Empathetic Programmers</strong><br>
+        Follow the instructions <a href = "https://github.com/turingschool/gear-up/blob/master/pre-work/intro_with_empathy.markdown">here</a>.
+        You only have to read and write reflections on two of the articles within throughout the week.  
+      </td>
+      <td>Post your reflections in a new gist and Slack the link to <a href = "mailto:mike@turing.io">
+      mike@turing.io</a>.
+      </td>
+      <td>30-45 minutes per article</td> 
+    </tr>
+
   </tbody>
 </table>
 

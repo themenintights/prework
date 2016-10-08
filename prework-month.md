@@ -24,6 +24,17 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       <td>Take a screenshot when you complete each of the <b>free</b> quizzes (Labyrinth Liberation, Dinner Date, Algorithm Accomplished) and post it as a comment in your Gist (see Day One task).</td>
       <td>About 5 minutes a day</td>
     </tr>
+    <tr>
+      <td><strong>Task C: Turing Culture: Developing Empathetic Programmers</strong><br>
+        Follow the instructions <a href = "https://github.com/turingschool/gear-up/blob/master/pre-work/intro_with_empathy.markdown">here</a>.
+        You only have to read and write reflections on two of the articles within throughout the week.  
+      </td>
+      <td>Post your reflections in a new gist and Slack the link to <a href = "mailto:mike@turing.io">
+      mike@turing.io</a>.
+      </td>
+      <td>30-45 minutes per article</td> 
+    </tr>
+
   </tbody>
 </table>
 

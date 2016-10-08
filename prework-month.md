@@ -29,7 +29,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
         Follow the instructions <a href = "https://github.com/turingschool/gear-up/blob/master/pre-work/intro_with_empathy.markdown">here</a>.
         You only have to read and write reflections on two of the articles within throughout the week.  
       </td>
-      <td>Post your reflections in a new gist and Slack the link to <a href = "mailto:mike@turing.io">
+      <td>Post your reflections in a new gist and email the link to <a href = "mailto:mike@turing.io">
       mike@turing.io</a>.
       </td>
       <td>30-45 minutes per article</td> 

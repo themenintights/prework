@@ -1,4 +1,4 @@
-# Prework: If you Have a Month
+# Prework: If you Have a Month - Seth Moser
 Welcome to Turing! Your pre-work is broken up into a few different sections. Start off with the first week's suggested schedule. Once you've completed everything in the first week's schedule, move on to the Next Steps. If you still have time and would like to learn more, you may move on to the Extend Your Learning section. Before coming to Turing, please remember to complete Task G, the Pre-Work Reflection.
 
 # Priorities:

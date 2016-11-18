@@ -70,11 +70,11 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       </td>
       <td>Respond to the following questions in your Gist:<br>
       <ul>
-        <li>Did you run into any issues?</li>
-        <li>How do you open VS Code from your Terminal?</li>
-        <li>What is the file extension for a Ruby file?</li>
+        <li>Did you run into any issues? No</li>
+        <li>How do you open VS Code from your Terminal? If you want to run VS Code from the terminal by simply typing 'code', VS Code has a command, Shell Command: Install 'code' command in PATH, to add 'code' to your $PATH variable list.</li>
+        <li>What is the file extension for a Ruby file? .rb </li>
         <li>What is the VS Code shortcut for hiding/ showing your file tree view?</li>
-        <li>What is the VS Code shortcut for quickly finding a file (fuzzy finder)?</li>
+        <li>What is the VS Code shortcut for quickly finding a file (fuzzy finder)? cmd-t or cmd-p</li>
       </ul><br><br>Type the following commands into your Terminal to ensure you have Ruby, RVM, and Git installed. Take a screenshot that shows the versions of each of these, and post it as a comment in your Gist:<br>
         <ul>
           <li>which ruby</li>

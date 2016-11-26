@@ -89,8 +89,8 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
       </td>
       <td>Did you make the flashcards in Setup? Post a picture of your flashcards as a comment in your Gist.<br><br>Answer the following questions in your Gist:
       <ul>
-        <li>What does pwd stand for, and how is this command helpful?</li>
-        <li>What does hostname tell you, and what shows up in YOUR terminal when you type hostname?</li>
+        <li>What does pwd stand for, and how is this command helpful? stands for print working directory, tells you where the file is.</li>
+        <li>What does hostname tell you, and what shows up in YOUR terminal when you type hostname? "local"</li>
       <ul>
       </td>
       <td>About 45 minutes</td>

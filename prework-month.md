@@ -73,7 +73,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
         <li>Did you run into any issues? No</li>
         <li>How do you open VS Code from your Terminal? If you want to run VS Code from the terminal by simply typing 'code', VS Code has a command, Shell Command: Install 'code' command in PATH, to add 'code' to your $PATH variable list.</li>
         <li>What is the file extension for a Ruby file? .rb </li>
-        <li>What is the VS Code shortcut for hiding/ showing your file tree view?</li>
+        <li>What is the VS Code shortcut for hiding/ showing your file tree view? cmd-\</li>
         <li>What is the VS Code shortcut for quickly finding a file (fuzzy finder)? cmd-t or cmd-p</li>
       </ul><br><br>Type the following commands into your Terminal to ensure you have Ruby, RVM, and Git installed. Take a screenshot that shows the versions of each of these, and post it as a comment in your Gist:<br>
         <ul>
@@ -82,15 +82,15 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
           <li>rvm --version</li>
         </ul>
       </td>
-      <td>About 45 minutes</td>
+      <td>http://imgur.com/a/f3iDX</td>
     </tr>
     <tr>
       <td><strong>Task E- Start learning to use the command line.</strong><br>Watch <a href="https://vimeo.com/152746852">this video</a>.<br><br> Do the first section of: http://codecademy.com/learn/learn-the-command-line <br>For today:
       </td>
       <td>Did you make the flashcards in Setup? Post a picture of your flashcards as a comment in your Gist.<br><br>Answer the following questions in your Gist:
       <ul>
-        <li>What does pwd stand for, and how is this command helpful? stands for print working directory, tells you where the file is.</li>
-        <li>What does hostname tell you, and what shows up in YOUR terminal when you type hostname? "local"</li>
+        <li>What does pwd stand for, and how is this command helpful? stands for print working directory, tells you where the file you're at is.</li>
+        <li>What does hostname tell you, and what shows up in YOUR terminal when you type hostname? name of terminal logged in "seth"</li>
       <ul>
       </td>
       <td>About 45 minutes</td>
@@ -120,7 +120,7 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
           <li>List Directory (ls)</li>
         </ul>
       </td>
-      <td>Take a screenshot of your terminal after completing each exercise, and post all three as comments to your Gist.</td>
+      <td>Take a screenshot of your terminal after completing each exercise, and post all three as comments to your Gist. http://imgur.com/8X4tp5j</td>
       <td>20 minutes</td>
     </tr>
     <tr>

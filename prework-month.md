@@ -364,8 +364,8 @@ Welcome to Turing! Your pre-work is broken up into a few different sections. Sta
 ## Task G (final task)- Pre-work Reflection:
 #### To sum up your pre-work, answer the following questions in your Gist:
 
-* Were you able to get through the work? Did you rush to finish, or take your time?
-* What are you most looking forward to learning more about?
-* What topics would you most like to see reinforced by instructors?
-* What is most confusing to you about what you've learned?
-* What questions do you have for your student mentor or for your instructors?
+* Were you able to get through the work? Did you rush to finish, or take your time? I mostly rushed to finish, but was able to get through it.
+* What are you most looking forward to learning more about? I am most looking foreward to problem solving how to even start coding, deciding what I want a code to do and finding out how to get it there.
+* What topics would you most like to see reinforced by instructors? I would like to see more of arrays, still having a little trouble with them.
+* What is most confusing to you about what you've learned? Arrays.
+* What questions do you have for your student mentor or for your instructors? How do you keep a positive outlook when you're super stumped?
